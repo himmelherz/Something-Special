@@ -1,0 +1,2988 @@
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-28 22:04:39.895899
+INFO:root:Sending Email
+INFO:root:2019-11-28 22:30:01.456645
+INFO:root:Temperature: 26.56 Humidity: 27.00 Real time: 29-11-2019, 01:29:14, Fri Lightness: 38
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-28 22:31:27.041475
+INFO:root:Sending Email
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-28 22:35:09.451987
+INFO:root:Sending Email
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-28 22:35:42.475976
+INFO:root:Sending Email
+INFO:root:2019-11-28 22:36:04.113545
+INFO:root:Temperature: 26.56 Humidity: 26.00 Real time: 29-11-2019, 01:34:45, Fri Lightness: 38
+
+INFO:root:2019-11-28 22:41:00.013464
+INFO:root:Temperature: 26.56 Humidity: 25.00 Real time: 29-11-2019, 01:40:13, Fri Lightness: 38
+
+INFO:root:2019-11-28 22:46:27.720963
+INFO:root:Temperature: 26.62 Humidity: 25.00 Real time: 29-11-2019, 01:45:40, Fri Lightness: 38
+
+INFO:root:2019-11-28 23:31:48.954346
+INFO:root:Temperature: 26.75 Humidity: 25.00 Real time: 29-11-2019, 02:31:02, Fri Lightness: 38
+
+INFO:root:2019-11-28 23:37:16.506427
+INFO:root:Temperature: 26.75 Humidity: 25.00 Real time: 29-11-2019, 02:36:29, Fri Lightness: 38
+
+INFO:root:2019-11-28 23:42:44.054459
+INFO:root:Temperature: 26.81 Humidity: 25.00 Real time: 29-11-2019, 02:41:57, Fri Lightness: 37
+
+INFO:root:2019-11-28 23:48:11.590160
+INFO:root:Temperature: 26.81 Humidity: 24.00 Real time: 29-11-2019, 02:47:25, Fri Lightness: 38
+
+INFO:root:2019-11-28 23:53:39.123792
+INFO:root:Temperature: 26.81 Humidity: 24.00 Real time: 29-11-2019, 02:52:52, Fri Lightness: 38
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-28 23:55:18.763267
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-28 23:55:37.354890
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-28 23:55:58.104400
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:2019-11-28 23:59:09.840006
+INFO:root:Temperature: 26.81 Humidity: 24.00 Real time: 29-11-2019, 02:58:23, Fri Lightness: 38
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 00:03:29.991261
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 00:03:52.726597
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 00:04:08.638263
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 00:04:34.979950
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:2019-11-29 00:04:48.233903
+INFO:root:Temperature: 26.81 Humidity: 24.00 Real time: 29-11-2019, 03:03:55, Fri Lightness: 38
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 00:04:53.052082
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 00:05:04.662225
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:2019-11-29 00:10:11.244716
+INFO:root:Temperature: 26.81 Humidity: 24.00 Real time: 29-11-2019, 03:09:25, Fri Lightness: 38
+
+INFO:root:2019-11-29 00:15:38.779729
+INFO:root:Temperature: 26.87 Humidity: 24.00 Real time: 29-11-2019, 03:14:53, Fri Lightness: 38
+
+INFO:root:2019-11-29 00:21:06.314296
+INFO:root:Temperature: 26.94 Humidity: 24.00 Real time: 29-11-2019, 03:20:20, Fri Lightness: 38
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 00:23:22.827496
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 00:23:36.043782
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 00:23:47.647422
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 00:25:32.891474
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 00:26:28.164880
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 00:26:40.852396
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:2019-11-29 00:26:54.107642
+INFO:root:Temperature: 26.94 Humidity: 25.00 Real time: 29-11-2019, 03:25:54, Fri Lightness: 38
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 00:26:55.691084
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 00:27:22.891195
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 00:27:37.182660
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 00:27:53.635031
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 00:28:06.317697
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 00:28:20.612542
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 00:29:29.082185
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:2019-11-29 00:32:15.118072
+INFO:root:Temperature: 27.00 Humidity: 27.00 Real time: 29-11-2019, 03:31:29, Fri Lightness: 37
+
+INFO:root:2019-11-29 00:37:42.651015
+INFO:root:Temperature: 27.00 Humidity: 27.00 Real time: 29-11-2019, 03:36:57, Fri Lightness: 37
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 00:42:06.067713
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 00:42:17.680872
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 00:42:37.878282
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:2019-11-29 00:43:13.364517
+INFO:root:Temperature: 27.06 Humidity: 27.00 Real time: 29-11-2019, 03:42:28, Fri Lightness: 37
+
+INFO:root:2019-11-29 00:48:40.897551
+INFO:root:Temperature: 27.00 Humidity: 27.00 Real time: 29-11-2019, 03:47:56, Fri Lightness: 37
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 00:50:30.283750
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:2019-11-29 00:54:09.472943
+INFO:root:Temperature: 27.06 Humidity: 27.00 Real time: 29-11-2019, 03:53:24, Fri Lightness: 37
+
+INFO:root:2019-11-29 00:59:37.005455
+INFO:root:Temperature: 27.06 Humidity: 27.00 Real time: 29-11-2019, 03:58:52, Fri Lightness: 37
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 01:01:54.616047
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:2019-11-29 01:05:05.606880
+INFO:root:Temperature: 27.06 Humidity: 27.00 Real time: 29-11-2019, 04:04:21, Fri Lightness: 37
+
+INFO:root:2019-11-29 01:10:33.138547
+INFO:root:Temperature: 27.00 Humidity: 27.00 Real time: 29-11-2019, 04:09:49, Fri Lightness: 37
+
+INFO:root:2019-11-29 01:16:00.671086
+INFO:root:Temperature: 27.00 Humidity: 27.00 Real time: 29-11-2019, 04:15:16, Fri Lightness: 37
+
+INFO:root:2019-11-29 01:21:28.203029
+INFO:root:Temperature: 27.00 Humidity: 27.00 Real time: 29-11-2019, 04:20:44, Fri Lightness: 37
+
+INFO:root:2019-11-29 01:26:55.734565
+INFO:root:Temperature: 27.00 Humidity: 27.00 Real time: 29-11-2019, 04:26:12, Fri Lightness: 37
+
+INFO:root:2019-11-29 01:32:23.272389
+INFO:root:Temperature: 26.94 Humidity: 27.00 Real time: 29-11-2019, 04:31:39, Fri Lightness: 37
+
+INFO:root:2019-11-29 01:37:50.815027
+INFO:root:Temperature: 26.94 Humidity: 27.00 Real time: 29-11-2019, 04:37:07, Fri Lightness: 37
+
+INFO:root:2019-11-29 01:43:18.361135
+INFO:root:Temperature: 26.94 Humidity: 25.00 Real time: 29-11-2019, 04:42:35, Fri Lightness: 37
+
+INFO:root:2019-11-29 01:48:45.906814
+INFO:root:Temperature: 26.94 Humidity: 25.00 Real time: 29-11-2019, 04:48:02, Fri Lightness: 37
+
+INFO:root:2019-11-29 01:54:13.454185
+INFO:root:Temperature: 26.94 Humidity: 25.00 Real time: 29-11-2019, 04:53:30, Fri Lightness: 37
+
+INFO:root:2019-11-29 01:59:41.002769
+INFO:root:Temperature: 26.94 Humidity: 25.00 Real time: 29-11-2019, 04:58:58, Fri Lightness: 37
+
+INFO:root:2019-11-29 02:05:08.550197
+INFO:root:Temperature: 26.94 Humidity: 25.00 Real time: 29-11-2019, 05:04:25, Fri Lightness: 37
+
+INFO:root:2019-11-29 02:10:36.098915
+INFO:root:Temperature: 26.87 Humidity: 25.00 Real time: 29-11-2019, 05:09:53, Fri Lightness: 37
+
+INFO:root:2019-11-29 02:16:03.645840
+INFO:root:Temperature: 26.87 Humidity: 24.00 Real time: 29-11-2019, 05:15:21, Fri Lightness: 37
+
+INFO:root:2019-11-29 02:21:31.181482
+INFO:root:Temperature: 26.87 Humidity: 24.00 Real time: 29-11-2019, 05:20:49, Fri Lightness: 37
+
+INFO:root:2019-11-29 02:26:58.715455
+INFO:root:Temperature: 26.87 Humidity: 24.00 Real time: 29-11-2019, 05:26:16, Fri Lightness: 37
+
+INFO:root:2019-11-29 02:32:26.249884
+INFO:root:Temperature: 26.87 Humidity: 24.00 Real time: 29-11-2019, 05:31:44, Fri Lightness: 37
+
+INFO:root:2019-11-29 02:37:53.785384
+INFO:root:Temperature: 26.81 Humidity: 24.00 Real time: 29-11-2019, 05:37:12, Fri Lightness: 36
+
+INFO:root:2019-11-29 02:43:21.319457
+INFO:root:Temperature: 26.81 Humidity: 24.00 Real time: 29-11-2019, 05:42:39, Fri Lightness: 37
+
+INFO:root:2019-11-29 02:48:48.851972
+INFO:root:Temperature: 26.81 Humidity: 24.00 Real time: 29-11-2019, 05:48:07, Fri Lightness: 37
+
+INFO:root:2019-11-29 02:54:16.385113
+INFO:root:Temperature: 26.81 Humidity: 24.00 Real time: 29-11-2019, 05:53:35, Fri Lightness: 37
+
+INFO:root:2019-11-29 02:59:43.919023
+INFO:root:Temperature: 26.81 Humidity: 24.00 Real time: 29-11-2019, 05:59:02, Fri Lightness: 37
+
+INFO:root:2019-11-29 03:05:11.452594
+INFO:root:Temperature: 26.81 Humidity: 24.00 Real time: 29-11-2019, 06:04:30, Fri Lightness: 37
+
+INFO:root:2019-11-29 03:10:38.990422
+INFO:root:Temperature: 26.81 Humidity: 24.00 Real time: 29-11-2019, 06:09:58, Fri Lightness: 37
+
+INFO:root:2019-11-29 03:16:06.534045
+INFO:root:Temperature: 26.81 Humidity: 23.00 Real time: 29-11-2019, 06:15:25, Fri Lightness: 37
+
+INFO:root:2019-11-29 03:21:34.080075
+INFO:root:Temperature: 26.81 Humidity: 23.00 Real time: 29-11-2019, 06:20:53, Fri Lightness: 37
+
+INFO:root:2019-11-29 03:27:01.626260
+INFO:root:Temperature: 26.81 Humidity: 23.00 Real time: 29-11-2019, 06:26:21, Fri Lightness: 37
+
+INFO:root:2019-11-29 03:32:29.164887
+INFO:root:Temperature: 26.81 Humidity: 24.00 Real time: 29-11-2019, 06:31:49, Fri Lightness: 37
+
+INFO:root:2019-11-29 03:37:56.700546
+INFO:root:Temperature: 26.81 Humidity: 24.00 Real time: 29-11-2019, 06:37:16, Fri Lightness: 37
+
+INFO:root:2019-11-29 03:43:24.251288
+INFO:root:Temperature: 26.75 Humidity: 23.00 Real time: 29-11-2019, 06:42:44, Fri Lightness: 36
+
+INFO:root:2019-11-29 03:48:51.787723
+INFO:root:Temperature: 26.75 Humidity: 23.00 Real time: 29-11-2019, 06:48:12, Fri Lightness: 37
+
+INFO:root:2019-11-29 03:54:19.338754
+INFO:root:Temperature: 26.75 Humidity: 23.00 Real time: 29-11-2019, 06:53:39, Fri Lightness: 37
+
+INFO:root:2019-11-29 03:59:46.889526
+INFO:root:Temperature: 26.81 Humidity: 23.00 Real time: 29-11-2019, 06:59:07, Fri Lightness: 37
+
+INFO:root:2019-11-29 04:05:14.440330
+INFO:root:Temperature: 26.75 Humidity: 22.00 Real time: 29-11-2019, 07:04:35, Fri Lightness: 37
+
+INFO:root:2019-11-29 04:10:41.982209
+INFO:root:Temperature: 26.81 Humidity: 22.00 Real time: 29-11-2019, 07:10:02, Fri Lightness: 37
+
+INFO:root:2019-11-29 04:16:09.524352
+INFO:root:Temperature: 26.75 Humidity: 22.00 Real time: 29-11-2019, 07:15:30, Fri Lightness: 37
+
+INFO:root:2019-11-29 04:21:37.064866
+INFO:root:Temperature: 26.75 Humidity: 22.00 Real time: 29-11-2019, 07:20:58, Fri Lightness: 37
+
+INFO:root:2019-11-29 04:27:04.606897
+INFO:root:Temperature: 26.75 Humidity: 22.00 Real time: 29-11-2019, 07:26:26, Fri Lightness: 36
+
+INFO:root:2019-11-29 04:32:32.149232
+INFO:root:Temperature: 26.75 Humidity: 22.00 Real time: 29-11-2019, 07:31:53, Fri Lightness: 37
+
+INFO:root:2019-11-29 04:37:59.692063
+INFO:root:Temperature: 26.75 Humidity: 22.00 Real time: 29-11-2019, 07:37:21, Fri Lightness: 37
+
+INFO:root:2019-11-29 04:43:27.234326
+INFO:root:Temperature: 26.75 Humidity: 22.00 Real time: 29-11-2019, 07:42:49, Fri Lightness: 36
+
+INFO:root:2019-11-29 04:48:54.777248
+INFO:root:Temperature: 26.75 Humidity: 22.00 Real time: 29-11-2019, 07:48:16, Fri Lightness: 37
+
+INFO:root:2019-11-29 04:54:22.320865
+INFO:root:Temperature: 26.69 Humidity: 22.00 Real time: 29-11-2019, 07:53:44, Fri Lightness: 37
+
+INFO:root:2019-11-29 04:59:49.862710
+INFO:root:Temperature: 26.69 Humidity: 22.00 Real time: 29-11-2019, 07:59:12, Fri Lightness: 36
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 05:03:01.681633
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 05:03:15.980998
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 05:03:29.201003
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 05:03:51.557063
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 05:04:07.487834
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 05:04:22.326587
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 05:04:34.473901
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 05:04:47.156745
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 05:04:58.766317
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 05:05:36.729120
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:2019-11-29 05:05:54.275398
+INFO:root:Temperature: 26.69 Humidity: 21.00 Real time: 29-11-2019, 08:04:50, Fri Lightness: 37
+
+INFO:root:2019-11-29 05:10:55.522140
+INFO:root:Temperature: 26.75 Humidity: 21.00 Real time: 29-11-2019, 08:10:18, Fri Lightness: 36
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 05:13:26.132377
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 05:15:02.648240
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:2019-11-29 05:16:25.191779
+INFO:root:Temperature: 26.75 Humidity: 21.00 Real time: 29-11-2019, 08:15:48, Fri Lightness: 37
+
+INFO:root:2019-11-29 05:21:52.748973
+INFO:root:Temperature: 26.75 Humidity: 21.00 Real time: 29-11-2019, 08:21:15, Fri Lightness: 37
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 05:22:20.808484
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 05:22:36.182057
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-11-29 05:22:58.550276
+INFO:root:Sending Email
+INFO:root:Unsuccessful sending
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 15:38:33.280526
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 15:38:45.200832
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 15:40:54.377455
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 15:42:52.639088
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 15:43:05.631893
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 15:43:11.044876
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 15:43:14.260034
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 22:50:51.773028
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 22:51:38.410002
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 22:54:42.868206
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 22:54:46.107669
+INFO:root:2019-12-03 22:56:03.250152
+INFO:root:Temperature: 26.75 Humidity: 26.00 Real time: 03-01-2000, 13:36:57, Tue Lightness: 92
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 22:56:42.173247
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 22:57:06.017294
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 22:57:16.840726
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 22:57:20.080361
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 22:57:25.465769
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 22:57:31.947779
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 22:57:43.869240
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 22:57:52.522097
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 22:57:57.907489
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 22:58:32.602244
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 22:58:46.693106
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 22:59:30.071115
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:00:01.497712
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:01:22.868996
+INFO:root:2019-12-03 23:01:45.758708
+INFO:root:Temperature: 26.81 Humidity: 25.00 Real time: 03-01-2000, 13:42:39, Tue Lightness: 100
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:04:22.981147
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:05:17.207000
+INFO:root:2019-12-03 23:07:15.589269
+INFO:root:Temperature: 26.81 Humidity: 25.00 Real time: 03-01-2000, 13:48:09, Tue Lightness: 78
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:07:20.886302
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:07:46.904471
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:08:23.772267
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:08:55.203131
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:08:58.443974
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:09:34.212943
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:10:08.909112
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:10:24.073377
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:11:29.154810
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:12:15.798240
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:12:21.182574
+INFO:root:2019-12-03 23:12:54.942907
+INFO:root:Temperature: 26.81 Humidity: 24.00 Real time: 03-01-2000, 13:53:48, Tue Lightness: 86
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:13:29.523968
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:13:40.345901
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:13:46.828466
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:14:26.942406
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:14:36.692253
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:15:43.944852
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:15:47.159452
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:15:51.471900
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:16:10.976053
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:16:17.457432
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:16:31.548110
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:17:17.094169
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:17:22.478411
+INFO:root:2019-12-03 23:18:36.379891
+INFO:root:Temperature: 26.75 Humidity: 24.00 Real time: 03-01-2000, 13:59:30, Tue Lightness: 80
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:19:00.111230
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:19:03.351535
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:19:13.078162
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:19:16.317996
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:20:07.287013
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:20:10.526894
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:21:04.771598
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:21:37.306087
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:21:41.619927
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:21:44.834776
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-03 23:21:48.074346
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 01:42:47.992233
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 01:42:51.231344
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 01:44:51.191849
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 01:45:00.941795
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 01:45:07.423986
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 01:46:08.158104
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 01:47:07.794997
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 01:47:24.055600
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 01:48:37.815398
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 01:50:07.834228
+INFO:root:2019-12-04 01:50:10.116662
+INFO:root:Temperature: 26.87 Humidity: 19.00 Real time: 03-01-2000, 16:31:04, Tue Lightness: 91
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 01:51:27.032540
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 01:51:40.024562
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 01:55:25.688584
+INFO:root:2019-12-04 01:55:40.991317
+INFO:root:Temperature: 26.87 Humidity: 19.00 Real time: 03-01-2000, 16:36:35, Tue Lightness: 76
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 01:57:41.010069
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 01:57:49.662112
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 01:57:52.900639
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 01:57:56.115186
+                                                                                                                                                                                                                                                                                                                                                INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:04:25.929085
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:04:29.145647
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:04:32.385264
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:04:37.770887
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:04:44.255246
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:05:00.522396
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:05:10.250651
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:05:23.221011
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:08:22.744457
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:08:25.959839
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:08:50.910847
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:09:06.077789
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:10:35.045637
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:14:19.703499
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:14:26.186737
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:26:25.989959
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:26:28.930424
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:26:34.025452
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:26:46.146060
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:26:51.917572
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:26:55.947619
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:27:02.866270
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:27:08.613089
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:27:18.418685
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:28:16.272250
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:28:21.472184
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:28:27.220926
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:28:34.138312
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:30:43.489312
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:30:50.972089
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:31:07.390821
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:31:10.628277
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:31:18.120479
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:31:22.608844
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:31:31.846822
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:31:35.187532
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:31:37.371061
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:31:50.552930
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:31:57.459964
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:32:00.154676
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:32:06.591135
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:32:11.622623
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:32:53.300104
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:32:56.629621
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:33:01.171467
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:38:16.363667
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:38:49.745862
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:38:56.118571
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:38:59.462041
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:39:47.983831
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:39:50.767832
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:39:53.540977
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:40:03.590422
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:40:09.321675
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:40:18.021211
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:40:21.392988
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:40:27.758641
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:40:35.811188
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:40:42.173012
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:40:44.311410
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:40:59.748197
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:41:02.527781
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:41:10.122239
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:41:13.527683
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:41:17.511603
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:41:22.075213
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:41:29.094914
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:41:39.664131
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:41:42.976593
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:41:45.731279
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:41:49.976493
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:41:52.119093
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:41:54.912835
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:42:05.553876
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:42:25.814421
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:42:33.424843
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:42:38.030325
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:42:44.996551
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:42:50.639732
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:42:53.346021
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:42:59.758948
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:43:02.516697
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:43:37.067311
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:43:46.479257
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:43:49.278646
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:43:59.273915
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:44:04.409410
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:44:10.772279
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:44:20.171112
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:44:22.920320
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:44:26.323481
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:44:34.769151
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:44:41.692307
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:44:48.690944
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:44:53.866082
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:44:56.617675
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:45:08.424096
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:45:11.828182
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:45:22.440434
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:45:32.408933
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:45:35.188025
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:45:42.645265
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:45:45.457718
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:45:53.031590
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:46:03.060747
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:46:06.415451
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:46:09.835083
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:46:16.208824
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:46:21.401705
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:46:24.219406
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:46:30.039228
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:46:32.826100
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:46:36.244482
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:46:39.678588
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:46:42.421443
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:46:52.357883
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:47:21.104489
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:47:24.461460
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:47:28.305098
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:47:31.702818
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:47:51.361352
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:47:53.550372
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:47:57.448124
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:48:02.298345
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:48:08.138432
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:48:10.938233
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:48:18.454625
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:48:21.141553
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:48:25.082722
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:48:30.816409
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:48:37.850809
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:48:47.250006
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:48:50.031541
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:48:52.927593
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:49:06.002696
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:49:11.139980
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:49:13.889652
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:49:17.362963
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:49:23.286638
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:50:01.044910
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:50:04.457207
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:50:18.002763
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:50:24.391970
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:50:35.620797
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:50:42.036462
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:51:20.765054
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:51:24.168247
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:51:26.911251
+INFO:root:2019-12-04 02:52:52.359113
+INFO:root:Temperature: 26.37 Humidity: 20.00 Real time: 04-12-2019, 05:51:48, Wed Lightness: 87
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:53:00.053372
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:53:15.390322
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:53:18.760357
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:53:28.133619
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:53:31.531707
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:53:36.551497
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:53:39.344684
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:53:45.151586
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:53:50.285533
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:53:56.074257
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:53:59.411162
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:54:08.868073
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:54:12.859891
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:54:41.534145
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:54:48.589342
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:55:07.438303
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:55:14.991165
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:55:33.428419
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:55:36.214810
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:55:57.630932
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:56:00.429171
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:56:27.891094
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:56:36.011374
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:56:38.821917
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 02:57:08.059131
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:36:10.759942
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:36:13.509292
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:36:38.391463
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:36:44.984967
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:36:50.849089
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:36:53.525180
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:37:02.270744
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:37:04.974237
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:37:09.559083
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:37:12.296624
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:37:18.013534
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:37:24.911397
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:37:30.654519
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:37:34.069667
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:37:37.337799
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:37:40.052887
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:37:46.896221
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:37:50.298590
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:37:58.458858
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:38:02.772289
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:38:21.784599
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:38:24.463377
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:38:27.143515
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:38:29.833234
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:38:33.597091
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:38:36.274369
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:38:43.842166
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:39:10.670107
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:39:23.338647
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:39:43.551047
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:39:49.896935
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:39:53.928363
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:39:56.787648
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:40:01.390182
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:40:07.162723
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:40:10.596382
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:40:14.625994
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:40:17.486587
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:40:20.345761
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:40:25.549833
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:40:28.406447
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:40:31.836811
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:40:34.721692
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:40:37.581188
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:40:42.754857
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:40:48.527024
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:40:53.129256
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:40:55.988830
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:41:06.365025
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:41:09.251429
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:41:12.110474
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:41:17.284941
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:41:22.460137
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:41:25.344453
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:41:29.349846
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:41:31.636807
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:41:37.981219
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:41:43.156482
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:41:51.243846
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:42:06.031558
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:42:08.789738
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:42:12.721527
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:42:14.884644
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:42:21.928604
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:42:24.670743
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:42:40.721456
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:42:44.070859
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:43:10.251076
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:43:18.401804
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:43:22.294246
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:43:40.591884
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:43:43.840037
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:44:15.987586
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:44:18.771978
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:44:30.540157
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:44:33.277823
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:44:36.131293
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:44:38.266280
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:44:48.569087
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:45:20.048507
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:45:22.790722
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:45:25.586720
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:45:28.331310
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:45:30.498054
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:45:47.048296
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:45:49.796064
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:45:56.128372
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:46:20.480383
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:46:23.247772
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:46:26.600206
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:47:12.514228
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:47:15.775673
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:50:03.006231
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:50:06.346704
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 07:50:09.048838
+INFO:root:2019-12-04 07:57:21.803800
+INFO:root:Temperature: 25.25 Humidity: 22.00 Real time: 04-12-2019, 10:56:07, Wed Lightness: 32
+
+INFO:root:2019-12-04 08:16:33.286658
+INFO:root:Temperature: 25.37 Humidity: 20.00 Real time: 04-12-2019, 11:13:30, Wed Lightness: 33
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:23:21.355015
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:23:27.975535
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:23:31.367173
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:23:34.198799
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:23:39.607529
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:23:43.991098
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:27:57.177751
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:28:19.955026
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:28:22.786936
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:28:44.285053
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:28:50.355081
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:28:53.357543
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:28:56.260500
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:29:17.833055
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:29:21.138305
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:29:24.429234
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:29:27.718957
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:30:03.586265
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:30:06.414511
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:30:13.821069
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:30:34.642652
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:30:36.811189
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:30:39.636149
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:30:49.032611
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:30:51.216848
+INFO:root:2019-12-04 08:35:58.429015
+INFO:root:Temperature: 25.44 Humidity: 20.00 Real time: 04-12-2019, 11:31:07, Wed Lightness: 33
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:36:00.227080
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:36:24.813184
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:36:59.766622
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:37:37.225262
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:37:48.062923
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:40:44.170605
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:40:48.301846
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:40:51.153648
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:47:54.050762
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:51:53.357824
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:51:56.135297
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:53:46.722089
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:54:19.119231
+INFO:root:2019-12-04 08:55:16.104494
+INFO:root:Temperature: 25.44 Humidity: 20.00 Real time: 04-12-2019, 11:48:37, Wed Lightness: 33
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:55:55.860471
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:56:05.135604
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:56:12.504655
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:56:26.297467
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:56:34.909098
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:56:42.224926
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:57:13.981414
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:57:46.313191
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:59:02.964494
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:59:10.339350
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:59:20.521370
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 08:59:23.257399
+INFO:root:2019-12-04 09:12:36.370888
+INFO:root:Temperature: 25.31 Humidity: 19.00 Real time: 04-12-2019, 12:06:06, Wed Lightness: 34
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 09:23:52.640955
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 09:23:55.400036
+INFO:root:2019-12-04 09:30:46.325491
+INFO:root:Temperature: 25.31 Humidity: 19.00 Real time: 04-12-2019, 12:23:31, Wed Lightness: 35
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 09:40:08.245367
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 09:40:11.632079
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 09:40:16.590504
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 09:40:36.016988
+INFO:root:2019-12-04 09:48:29.783030
+INFO:root:Temperature: 25.25 Humidity: 19.00 Real time: 04-12-2019, 12:40:56, Wed Lightness: 35
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 09:53:13.999870
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 09:53:21.833507
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 09:53:24.574579
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 09:53:49.947857
+INFO:root:2019-12-04 10:07:47.871273
+INFO:root:Temperature: 25.25 Humidity: 19.00 Real time: 04-12-2019, 12:58:21, Wed Lightness: 36
+
+INFO:root:2019-12-04 10:27:04.335569
+INFO:root:Temperature: 25.25 Humidity: 18.00 Real time: 04-12-2019, 13:15:44, Wed Lightness: 35
+
+INFO:root:2019-12-04 10:46:21.351604
+INFO:root:Temperature: 25.31 Humidity: 18.00 Real time: 04-12-2019, 13:33:07, Wed Lightness: 34
+
+INFO:root:2019-12-04 11:05:35.773565
+INFO:root:Temperature: 25.25 Humidity: 18.00 Real time: 04-12-2019, 13:50:30, Wed Lightness: 33
+
+INFO:root:2019-12-04 11:24:52.763909
+INFO:root:Temperature: 25.25 Humidity: 18.00 Real time: 04-12-2019, 14:07:53, Wed Lightness: 33
+
+INFO:root:2019-12-04 11:44:09.056243
+INFO:root:Temperature: 25.31 Humidity: 18.00 Real time: 04-12-2019, 14:25:16, Wed Lightness: 33
+
+INFO:root:2019-12-04 12:03:26.097827
+INFO:root:Temperature: 25.37 Humidity: 18.00 Real time: 04-12-2019, 14:42:39, Wed Lightness: 32
+
+INFO:root:2019-12-04 12:22:42.548907
+INFO:root:Temperature: 25.31 Humidity: 18.00 Real time: 04-12-2019, 15:00:02, Wed Lightness: 32
+
+INFO:root:2019-12-04 12:41:59.685231
+INFO:root:Temperature: 25.31 Humidity: 17.00 Real time: 04-12-2019, 15:17:25, Wed Lightness: 32
+
+INFO:root:2019-12-04 13:01:13.140616
+INFO:root:Temperature: 25.31 Humidity: 17.00 Real time: 04-12-2019, 15:34:48, Wed Lightness: 31
+
+INFO:root:2019-12-04 13:20:29.626945
+INFO:root:Temperature: 25.31 Humidity: 17.00 Real time: 04-12-2019, 15:52:11, Wed Lightness: 31
+
+INFO:root:2019-12-04 13:39:45.870819
+INFO:root:Temperature: 25.31 Humidity: 17.00 Real time: 04-12-2019, 16:09:34, Wed Lightness: 32
+
+INFO:root:2019-12-04 13:59:02.467068
+INFO:root:Temperature: 25.31 Humidity: 17.00 Real time: 04-12-2019, 16:26:57, Wed Lightness: 31
+
+INFO:root:2019-12-04 14:16:12.468389
+INFO:root:Temperature: 25.31 Humidity: 17.00 Real time: 04-12-2019, 16:44:20, Wed Lightness: 31
+
+INFO:root:2019-12-04 14:35:29.237430
+INFO:root:Temperature: 25.37 Humidity: 17.00 Real time: 04-12-2019, 17:01:43, Wed Lightness: 31
+
+INFO:root:2019-12-04 14:54:45.740470
+INFO:root:Temperature: 25.31 Humidity: 17.00 Real time: 04-12-2019, 17:19:06, Wed Lightness: 31
+
+INFO:root:2019-12-04 15:14:02.394949
+INFO:root:Temperature: 25.31 Humidity: 17.00 Real time: 04-12-2019, 17:36:29, Wed Lightness: 31
+
+INFO:root:2019-12-04 15:33:19.335305
+INFO:root:Temperature: 25.31 Humidity: 17.00 Real time: 04-12-2019, 17:53:52, Wed Lightness: 30
+
+INFO:root:2019-12-04 15:52:35.224507
+INFO:root:Temperature: 25.31 Humidity: 17.00 Real time: 04-12-2019, 18:11:15, Wed Lightness: 31
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 16:06:00.229324
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 16:06:04.066753
+INFO:root:2019-12-04 16:11:51.221109
+INFO:root:Temperature: 25.25 Humidity: 17.00 Real time: 04-12-2019, 18:28:39, Wed Lightness: 31
+
+INFO:root:2019-12-04 16:31:08.507136
+INFO:root:Temperature: 25.31 Humidity: 17.00 Real time: 04-12-2019, 18:46:02, Wed Lightness: 31
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 16:47:16.125212
+INFO:root:2019-12-04 16:50:21.182832
+INFO:root:Temperature: 25.25 Humidity: 17.00 Real time: 04-12-2019, 19:03:25, Wed Lightness: 31
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 16:55:11.956419
+INFO:root:2019-12-04 17:07:06.984113
+INFO:root:Temperature: 25.25 Humidity: 17.00 Real time: 04-12-2019, 19:20:49, Wed Lightness: 31
+
+INFO:root:2019-12-04 17:23:52.066435
+INFO:root:Temperature: 25.25 Humidity: 17.00 Real time: 04-12-2019, 19:38:12, Wed Lightness: 31
+
+INFO:root:2019-12-04 17:40:37.456333
+INFO:root:Temperature: 25.31 Humidity: 17.00 Real time: 04-12-2019, 19:55:35, Wed Lightness: 31
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 17:55:26.801795
+INFO:root:2019-12-04 17:57:22.688720
+INFO:root:Temperature: 25.25 Humidity: 17.00 Real time: 04-12-2019, 20:12:59, Wed Lightness: 31
+
+INFO:root:2019-12-04 18:14:07.359065
+INFO:root:Temperature: 25.19 Humidity: 17.00 Real time: 04-12-2019, 20:30:22, Wed Lightness: 31
+
+INFO:root:2019-12-04 18:30:52.070842
+INFO:root:Temperature: 25.19 Humidity: 17.00 Real time: 04-12-2019, 20:47:45, Wed Lightness: 31
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 18:40:36.575042
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 18:40:39.313374
+INFO:root:2019-12-04 18:47:39.060352
+INFO:root:Temperature: 25.19 Humidity: 17.00 Real time: 04-12-2019, 21:05:09, Wed Lightness: 31
+
+INFO:root:2019-12-04 19:04:23.791516
+INFO:root:Temperature: 25.19 Humidity: 17.00 Real time: 04-12-2019, 21:22:32, Wed Lightness: 31
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 19:07:21.753150
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 19:07:24.488248
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 19:07:30.569067
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 19:07:33.318007
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 19:07:37.714352
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 19:07:44.920781
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 19:07:47.646596
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 19:08:41.681777
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 19:08:49.438672
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 19:08:53.286416
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 19:08:56.021053
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 19:09:00.980105
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 19:09:07.612505
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 19:09:12.028093
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 19:09:15.322151
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 19:09:18.658981
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 19:09:20.853003
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 19:09:33.061520
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 19:10:01.468302
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 19:10:04.206112
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 19:10:14.241794
+INFO:root:2019-12-04 19:21:19.502578
+INFO:root:Temperature: 25.19 Humidity: 17.00 Real time: 04-12-2019, 21:40:06, Wed Lightness: 31
+
+INFO:root:2019-12-04 19:38:04.553422
+INFO:root:Temperature: 25.25 Humidity: 18.00 Real time: 04-12-2019, 21:57:29, Wed Lightness: 31
+
+INFO:root:2019-12-04 19:54:49.728647
+INFO:root:Temperature: 25.19 Humidity: 17.00 Real time: 04-12-2019, 22:14:52, Wed Lightness: 31
+
+INFO:root:2019-12-04 20:11:34.950391
+INFO:root:Temperature: 25.12 Humidity: 18.00 Real time: 04-12-2019, 22:32:15, Wed Lightness: 31
+
+INFO:root:2019-12-04 20:28:19.826817
+INFO:root:Temperature: 25.12 Humidity: 18.00 Real time: 04-12-2019, 22:49:38, Wed Lightness: 30
+
+INFO:root:2019-12-04 20:45:04.971443
+INFO:root:Temperature: 25.19 Humidity: 17.00 Real time: 04-12-2019, 23:07:01, Wed Lightness: 31
+
+INFO:root:2019-12-04 21:01:49.751947
+INFO:root:Temperature: 25.19 Humidity: 17.00 Real time: 04-12-2019, 23:24:24, Wed Lightness: 30
+
+INFO:root:2019-12-04 21:18:34.556325
+INFO:root:Temperature: 25.12 Humidity: 17.00 Real time: 04-12-2019, 23:41:47, Wed Lightness: 31
+
+INFO:root:2019-12-04 21:35:19.496104
+INFO:root:Temperature: 25.12 Humidity: 17.00 Real time: 04-12-2019, 23:59:10, Wed Lightness: 31
+
+INFO:root:2019-12-04 21:52:04.587230
+INFO:root:Temperature: 25.25 Humidity: 17.00 Real time: 05-12-2019, 00:16:33, Thu Lightness: 31
+
+INFO:root:2019-12-04 22:08:49.676262
+INFO:root:Temperature: 25.12 Humidity: 17.00 Real time: 05-12-2019, 00:33:56, Thu Lightness: 30
+
+INFO:root:2019-12-04 22:25:34.620825
+INFO:root:Temperature: 25.12 Humidity: 17.00 Real time: 05-12-2019, 00:51:19, Thu Lightness: 31
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 22:35:55.040699
+INFO:root:2019-12-04 22:42:19.605987
+INFO:root:Temperature: 25.19 Humidity: 17.00 Real time: 05-12-2019, 01:08:43, Thu Lightness: 31
+
+INFO:root:2019-12-04 22:59:04.303397
+INFO:root:Temperature: 25.19 Humidity: 17.00 Real time: 05-12-2019, 01:26:06, Thu Lightness: 31
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:00:00.039086
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:00:28.959970
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:02:12.095282
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:02:15.377775
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:02:28.693390
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:02:49.316197
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:02:52.058053
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:02:58.143828
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:03:00.878841
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:03:11.420231
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:03:15.819187
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:03:18.569230
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:03:21.862180
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:05:12.093854
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:05:52.725167
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:05:54.904390
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:05:57.639021
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:06:00.386714
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:06:06.463626
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:06:09.221217
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:06:32.036567
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:06:35.881739
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:11:13.341936
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:11:15.512913
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:11:18.246919
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:11:23.202764
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:11:28.729199
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:11:43.721715
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:11:45.901651
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:11:51.985473
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:11:54.717291
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:11:57.468896
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:11:59.671936
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:12:10.759722
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:12:33.525925
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:12:36.259374
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:12:38.435894
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:12:45.102583
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:12:47.839006
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:12:50.013027
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:13:02.782483
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:13:06.639399
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:13:33.883445
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:13:37.176250
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:13:42.144277
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:13:44.323982
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:13:49.843908
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:13:52.624504
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:13:57.583715
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:14:02.555930
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:14:13.095668
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:14:15.830918
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:14:20.793717
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:14:25.752098
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:14:31.284541
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:14:42.375745
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:14:47.334697
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:14:50.635303
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:14:53.369960
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:15:16.718292
+INFO:root:2019-12-04 23:16:19.119076
+INFO:root:Temperature: 25.19 Humidity: 17.00 Real time: 05-12-2019, 01:44:02, Thu Lightness: 31
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:17:58.895766
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:18:02.774083
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:18:05.508184
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:18:45.601951
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:18:48.905868
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:18:58.869401
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:19:07.792134
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:22:52.981409
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:22:55.718043
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:22:57.908480
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:23:01.201043
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:23:39.621075
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:25:59.051068
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:33:00.140289
+INFO:root:2019-12-04 23:33:11.290715
+INFO:root:Temperature: 25.12 Humidity: 17.00 Real time: 05-12-2019, 02:01:33, Thu Lightness: 30
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:33:25.171098
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:33:44.061616
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:33:46.796396
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:33:59.055233
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:34:02.902417
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:34:10.653968
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:34:13.387872
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:34:30.596007
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:34:33.327318
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:34:39.416549
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:34:47.719254
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:46:04.019937
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:46:12.317270
+INFO:root:2019-12-04 23:50:02.781603
+INFO:root:Temperature: 25.25 Humidity: 17.00 Real time: 05-12-2019, 02:19:03, Thu Lightness: 31
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:50:37.856290
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:50:40.037349
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:50:43.346641
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:50:56.133192
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:52:15.267168
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:52:20.786824
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:52:25.772813
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:52:28.510734
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:52:31.813080
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:52:34.549220
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:52:47.884754
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:52:53.404624
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:52:58.373456
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:53:04.455691
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:53:13.331416
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:54:37.995406
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:58:54.405736
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:59:07.763212
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:59:10.528115
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:59:19.384684
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:59:28.271290
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:59:30.489141
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:59:49.972272
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:59:55.500879
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-04 23:59:58.788763
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:00:14.982824
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:00:18.273387
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:00:25.458086
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:00:28.193924
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:00:30.371421
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:00:37.012021
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:01:09.273901
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:01:15.352697
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:02:55.185457
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:03:14.087608
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:03:27.398889
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:03:31.262471
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:03:44.606963
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:03:47.342915
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:03:50.083808
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:04:06.218232
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:04:10.076319
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:04:30.692258
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:04:46.249127
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:04:51.802627
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:04:53.987781
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:04:56.722951
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:04:58.896926
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:06:52.607745
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:06:54.786334
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:07:00.316079
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:07:03.047896
+INFO:root:2019-12-05 00:07:14.250297
+INFO:root:Temperature: 25.19 Humidity: 17.00 Real time: 05-12-2019, 02:36:55, Thu Lightness: 30
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:07:15.872993
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:07:18.609733
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:07:21.348789
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:07:29.649278
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:07:32.400770
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:07:35.137657
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:07:40.103803
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:07:46.795790
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:08:18.518728
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:08:24.033567
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:08:26.811668
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:08:36.785531
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:08:41.749333
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:08:50.622094
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:09:03.415676
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:09:05.594505
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:09:11.113182
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:09:14.400262
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:09:26.061570
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:09:31.025084
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:09:36.002684
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:11:45.944133
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:12:28.855990
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:12:32.698334
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:12:35.437881
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:12:39.844208
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:12:43.690512
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:13:29.889329
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:13:33.773368
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:13:36.500775
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:13:43.698943
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:13:46.442250
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:13:49.735943
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:13:55.805897
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:14:16.401041
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:14:49.222599
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:14:51.400033
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:15:17.542704
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:15:41.998929
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:15:45.304511
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:22:39.698472
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:22:42.433853
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:22:51.294018
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:23:00.706420
+INFO:root:2019-12-05 00:24:21.538585
+INFO:root:Temperature: 25.12 Humidity: 17.00 Real time: 05-12-2019, 02:54:42, Thu Lightness: 30
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:25:43.430515
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:25:47.295888
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:25:50.583467
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:26:43.551612
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:26:46.283344
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:27:01.278480
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:27:04.015149
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:27:14.042853
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:27:16.239241
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:27:20.646864
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:28:31.940733
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:28:51.976832
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:28:54.154903
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:28:59.674811
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:29:18.071993
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:29:53.189304
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:29:57.597947
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:30:00.886435
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:30:19.820426
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:30:23.673656
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:30:34.753798
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:30:39.164006
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:30:51.940462
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:31:00.811294
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:31:04.103786
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:31:09.615866
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:31:12.351934
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:31:16.206796
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:31:18.939062
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:31:26.130573
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:31:28.865728
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:31:51.136987
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:31:55.555543
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:31:58.288728
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:32:00.481351
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:32:04.394514
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:32:09.350085
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:32:12.086308
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:32:20.387697
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:32:23.120274
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:32:30.312322
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:32:38.065791
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:32:41.927453
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:32:44.655879
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:32:47.950091
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:32:51.800925
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:32:57.319774
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:33:05.073865
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:33:30.170477
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:34:03.552932
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:34:09.627574
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:34:14.627509
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:34:17.376061
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:34:26.247110
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:34:28.979661
+INFO:root:2019-12-05 00:41:34.438438
+INFO:root:Temperature: 25.12 Humidity: 18.00 Real time: 05-12-2019, 03:12:35, Thu Lightness: 30
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:43:15.255723
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:43:18.003895
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:43:22.960332
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:43:35.747408
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:44:42.545396
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:44:45.837920
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:45:06.965517
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:45:13.595125
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:45:16.327049
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:45:24.640286
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:45:27.373521
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:45:41.310203
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:45:46.831682
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:45:50.151928
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:45:53.441005
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:47:37.709532
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:47:40.450327
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:47:43.189958
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:50:08.679323
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:50:10.857969
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:50:16.946410
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:50:22.461063
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:50:36.335608
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:50:42.407495
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:50:45.163115
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:50:56.798932
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:51:00.087911
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:51:02.265995
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:51:13.347735
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:51:17.213493
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:51:19.945313
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:51:22.692654
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:51:32.106505
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:52:56.956866
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:53:01.925441
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 00:53:05.217018
+INFO:root:2019-12-05 00:58:37.547855
+INFO:root:Temperature: 25.19 Humidity: 17.00 Real time: 05-12-2019, 03:30:18, Thu Lightness: 31
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:00:53.504519
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:01:00.163852
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:01:15.724796
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:01:19.614016
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:01:22.354865
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:01:25.087395
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:01:36.188739
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:01:38.960670
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:01:42.808377
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:01:46.658180
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:02:43.512834
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:02:46.242701
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:03:45.295237
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:03:51.362822
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:04:05.807587
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:04:13.571549
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:04:17.979199
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:04:24.624856
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:04:39.638443
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:04:44.596904
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:04:51.236370
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:05:15.716782
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:05:19.011767
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:06:20.283218
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:06:55.893898
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:06:58.635816
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:07:05.835557
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:07:13.578137
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:07:16.317313
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:07:19.053268
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:07:45.768123
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:07:51.292225
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:08:01.843164
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:08:04.574219
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:08:10.087783
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:08:24.528640
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:08:29.502602
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:08:33.912182
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:08:36.088628
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:08:59.415756
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:09:05.561252
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:09:14.419909
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:09:17.157696
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:09:19.333448
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:09:22.083366
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:09:24.820565
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:09:28.111800
+INFO:root:2019-12-05 01:15:46.110976
+INFO:root:Temperature: 25.12 Humidity: 18.00 Real time: 05-12-2019, 03:48:07, Thu Lightness: 31
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:26:56.243487
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:27:08.482786
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:27:26.294360
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:30:43.604735
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:30:45.795342
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:30:48.543293
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:30:51.838090
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:30:57.379384
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:31:00.125460
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:31:06.196800
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:31:28.434656
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:31:30.614997
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:31:40.043972
+INFO:root:2019-12-05 01:32:37.437969
+INFO:root:Temperature: 25.06 Humidity: 18.00 Real time: 05-12-2019, 04:05:37, Thu Lightness: 31
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:32:46.870795
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:32:51.833382
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:32:55.135441
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:32:57.867117
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:33:08.965321
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:33:11.702119
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:33:18.881261
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:33:25.536264
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:33:32.720402
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:33:37.122986
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:33:40.983905
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:33:43.721478
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:33:46.451870
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:33:55.878290
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:33:58.616713
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:34:07.471245
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:34:14.107646
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:34:19.069820
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:34:22.363472
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:34:25.652917
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:34:30.644073
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:34:34.498454
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:34:57.299299
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:35:12.846141
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:35:15.576557
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:35:24.439942
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:35:29.960560
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:35:38.301136
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:35:41.051589
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:35:46.012616
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:36:09.418651
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:36:18.857378
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:36:22.153278
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:36:26.000881
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:40:13.544012
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:40:16.291383
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 01:40:22.366161
+INFO:root:2019-12-05 01:49:40.778600
+INFO:root:Temperature: 25.06 Humidity: 18.00 Real time: 05-12-2019, 04:23:20, Thu Lightness: 31
+
+INFO:root:2019-12-05 02:06:25.074640
+INFO:root:Temperature: 25.06 Humidity: 18.00 Real time: 05-12-2019, 04:40:43, Thu Lightness: 31
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 02:15:05.125240
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 02:20:56.825548
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 02:21:03.471188
+INFO:root:2019-12-05 02:23:11.168223
+INFO:root:Temperature: 24.94 Humidity: 17.00 Real time: 05-12-2019, 04:58:08, Thu Lightness: 31
+
+INFO:root:2019-12-05 02:39:55.584680
+INFO:root:Temperature: 24.87 Humidity: 18.00 Real time: 05-12-2019, 05:15:31, Thu Lightness: 31
+
+INFO:root:2019-12-05 02:56:39.789211
+INFO:root:Temperature: 25.00 Humidity: 18.00 Real time: 05-12-2019, 05:32:54, Thu Lightness: 31
+
+INFO:root:2019-12-05 03:13:24.242936
+INFO:root:Temperature: 25.00 Humidity: 18.00 Real time: 05-12-2019, 05:50:17, Thu Lightness: 31
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 03:16:44.811458
+INFO:root:2019-12-05 03:30:09.243524
+INFO:root:Temperature: 24.94 Humidity: 18.00 Real time: 05-12-2019, 06:07:40, Thu Lightness: 31
+
+INFO:root:2019-12-05 03:46:53.642199
+INFO:root:Temperature: 24.94 Humidity: 17.00 Real time: 05-12-2019, 06:25:03, Thu Lightness: 31
+
+INFO:root:2019-12-05 04:03:38.133596
+INFO:root:Temperature: 25.06 Humidity: 17.00 Real time: 05-12-2019, 06:42:26, Thu Lightness: 30
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 04:04:38.267732
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 04:07:00.884208
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 04:08:10.573989
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 04:11:10.558627
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 04:16:36.546599
+INFO:root:2019-12-05 04:20:25.158913
+INFO:root:Temperature: 24.94 Humidity: 17.00 Real time: 05-12-2019, 06:59:52, Thu Lightness: 30
+
+INFO:root:2019-12-05 04:37:09.541211
+INFO:root:Temperature: 24.94 Humidity: 17.00 Real time: 05-12-2019, 07:17:15, Thu Lightness: 31
+
+INFO:root:2019-12-05 04:53:54.041597
+INFO:root:Temperature: 25.00 Humidity: 17.00 Real time: 05-12-2019, 07:34:38, Thu Lightness: 31
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:06:49.766705
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:07:04.782467
+INFO:root:2019-12-05 05:10:39.471002
+INFO:root:Temperature: 25.00 Humidity: 17.00 Real time: 05-12-2019, 07:52:02, Thu Lightness: 31
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:25:13.891762
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:25:20.522790
+INFO:root:2019-12-05 05:27:24.772618
+INFO:root:Temperature: 25.00 Humidity: 17.00 Real time: 05-12-2019, 08:09:26, Thu Lightness: 31
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:30:03.007581
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:30:19.106837
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:31:34.273592
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:31:42.047624
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:31:44.784846
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:31:46.977250
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:31:51.931660
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:31:55.778374
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:31:58.510162
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:32:00.688952
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:32:03.994819
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:32:06.734840
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:32:18.459085
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:32:30.668310
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:32:37.299363
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:32:42.276303
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:32:49.463029
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:33:03.331784
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:33:13.308209
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:33:18.286582
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:33:23.800942
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:33:26.552597
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:33:30.406065
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:33:46.514598
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:34:13.194584
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:34:18.727767
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:36:05.660052
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:36:07.840034
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:36:10.575159
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:37:18.533190
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:37:22.380940
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:37:25.116230
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:37:31.190642
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:37:36.165466
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:37:41.124565
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:37:43.875397
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:37:47.162213
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:37:57.160642
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:37:59.893206
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:38:03.212439
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:38:20.988953
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:38:40.439624
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:40:12.935374
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:40:18.464561
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:40:21.198919
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:40:27.285297
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:40:30.585413
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:40:33.316580
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:40:38.844166
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:40:42.142130
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:40:44.894359
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:40:49.854193
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:40:53.147230
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:40:55.324067
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:40:58.060122
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:41:39.221055
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:41:49.213876
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:41:55.853486
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:42:02.486658
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:42:12.526443
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:42:15.259042
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:42:27.487784
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:42:42.523956
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:42:47.488028
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:42:50.781070
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:42:56.295963
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:43:02.392806
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:43:05.127996
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:43:08.435786
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:43:25.122835
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:43:35.664618
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:43:43.404647
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:43:48.370392
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:43:51.105613
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:44:00.530609
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:44:03.325371
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:44:08.300198
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:44:13.829107
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:44:17.133899
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:44:41.582485
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:44:49.342563
+INFO:root:2019-12-05 05:44:50.460782
+INFO:root:Temperature: 25.06 Humidity: 17.00 Real time: 05-12-2019, 08:27:34, Thu Lightness: 31
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:45:01.013164
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:45:13.788219
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:45:38.801204
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:45:45.448065
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:45:53.198739
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:45:58.716602
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:46:01.454410
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:46:08.635569
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:46:12.492662
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:47:02.584667
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:47:04.762991
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:47:07.498250
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:49:41.932391
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:54:58.999934
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:55:01.732308
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:55:04.463232
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:55:07.751123
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:55:10.483249
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:55:12.699268
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:55:19.326888
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:55:26.540723
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:55:31.504302
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:55:48.171278
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:55:53.696587
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:55:56.443244
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:55:59.178540
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:56:25.321983
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:56:28.071173
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:56:31.919162
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:56:34.656336
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:56:36.835360
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:56:39.570725
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:56:41.748068
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:56:49.506980
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:56:52.235969
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:56:58.314188
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:57:01.688265
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:57:32.827725
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:57:35.561950
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:57:37.742823
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:57:58.871041
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:58:06.113984
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:58:10.528573
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:58:12.704897
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:58:15.443201
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:58:33.779002
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:58:37.625337
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:58:40.360968
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:58:52.018725
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:58:54.754537
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:58:57.493403
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:59:00.835594
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:59:06.348128
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:59:12.436575
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 05:59:14.614550
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:00:43.750710
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:00:45.930700
+INFO:root:2019-12-05 06:02:03.942944
+INFO:root:Temperature: 25.06 Humidity: 17.00 Real time: 05-12-2019, 08:45:28, Thu Lightness: 30
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:02:06.677489
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:03:05.694227
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:03:30.703260
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:03:34.552965
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:03:38.400725
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:03:42.815106
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:03:44.991727
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:03:47.738765
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:03:58.818700
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:04:04.962991
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:04:07.697841
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:07:40.530437
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:07:47.163708
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:07:54.909122
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:13:12.511908
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:13:14.689402
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:13:20.781289
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:13:33.541603
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:13:35.721014
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:13:51.843752
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:15:52.143861
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:16:14.435647
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:18:27.593698
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:18:50.385363
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:18:53.675358
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:18:59.195769
+INFO:root:2019-12-05 06:19:01.421572
+INFO:root:Temperature: 24.94 Humidity: 17.00 Real time: 05-12-2019, 09:03:05, Thu Lightness: 30
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:19:16.409405
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:19:19.703341
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:19:23.549894
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:19:27.409963
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:19:34.044783
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:19:37.336244
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:20:27.975972
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:20:47.424343
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:24:04.034182
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:24:06.784060
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:32:31.810652
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:32:35.103736
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:32:42.847793
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:34:14.133285
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:34:16.865568
+INFO:root:2019-12-05 06:35:53.250433
+INFO:root:Temperature: 24.87 Humidity: 18.00 Real time: 05-12-2019, 09:20:37, Thu Lightness: 31
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:36:38.382046
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:36:44.459345
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:36:47.241359
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:36:49.979011
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:45:20.573060
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:45:23.868528
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:45:28.272236
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:45:31.564507
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:45:34.299161
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:45:38.739837
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:46:00.997247
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:46:03.745353
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:46:06.477349
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:46:10.328235
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:46:14.190199
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:46:16.924325
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:46:20.786533
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:46:31.864720
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:47:12.502175
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:47:23.034335
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:47:27.993363
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:47:46.320069
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:47:51.837787
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:47:59.596402
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:48:08.464054
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:48:25.685966
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:48:28.419940
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:48:41.188396
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:48:53.954582
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:48:56.692214
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:48:59.425800
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:49:02.780609
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:49:07.186275
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:49:16.607633
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:49:18.785796
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:49:24.857759
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:49:27.590201
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:49:48.743388
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:49:53.698350
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:50:06.455129
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:50:09.200587
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:50:17.503406
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:50:55.896980
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:50:58.631570
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:51:09.189658
+INFO:root:2019-12-05 06:53:01.199410
+INFO:root:Temperature: 24.94 Humidity: 18.00 Real time: 05-12-2019, 09:38:24, Thu Lightness: 30
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:54:04.644427
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:54:07.382426
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 06:54:11.231767
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 07:00:56.784696
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 07:00:59.518525
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 07:03:19.880030
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 07:03:23.172243
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 07:03:55.428763
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 07:04:49.440798
+INFO:root:2019-12-05 07:09:49.826880
+INFO:root:Temperature: 25.00 Humidity: 17.00 Real time: 05-12-2019, 09:55:52, Thu Lightness: 30
+
+INFO:root:2019-12-05 07:26:33.783875
+INFO:root:Temperature: 25.00 Humidity: 18.00 Real time: 05-12-2019, 10:13:15, Thu Lightness: 31
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 07:27:42.357746
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 07:27:45.093965
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 07:32:00.155339
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 07:32:02.329999
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 07:32:06.747164
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 07:32:13.433338
+INFO:root:2019-12-05 07:43:20.828494
+INFO:root:Temperature: 24.94 Humidity: 17.00 Real time: 05-12-2019, 10:30:42, Thu Lightness: 30
+
+INFO:root:2019-12-05 08:00:04.757801
+INFO:root:Temperature: 24.94 Humidity: 18.00 Real time: 05-12-2019, 10:48:05, Thu Lightness: 31
+
+INFO:root:2019-12-05 08:16:48.658525
+INFO:root:Temperature: 25.00 Humidity: 18.00 Real time: 05-12-2019, 11:05:27, Thu Lightness: 31
+
+INFO:root:2019-12-05 08:33:32.700913
+INFO:root:Temperature: 24.94 Humidity: 18.00 Real time: 05-12-2019, 11:22:50, Thu Lightness: 31
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 08:42:32.598977
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 08:42:35.333806
+INFO:root:2019-12-05 08:50:17.877563
+INFO:root:Temperature: 25.00 Humidity: 18.00 Real time: 05-12-2019, 11:40:15, Thu Lightness: 31
+
+INFO:root:2019-12-05 09:07:01.967517
+INFO:root:Temperature: 24.94 Humidity: 18.00 Real time: 05-12-2019, 11:57:38, Thu Lightness: 31
+
+INFO:root:2019-12-05 09:23:46.414714
+INFO:root:Temperature: 25.00 Humidity: 18.00 Real time: 05-12-2019, 12:15:00, Thu Lightness: 31
+
+INFO:root:2019-12-05 09:40:31.082829
+INFO:root:Temperature: 24.94 Humidity: 17.00 Real time: 05-12-2019, 12:32:23, Thu Lightness: 31
+
+INFO:root:2019-12-05 09:57:15.355095
+INFO:root:Temperature: 25.00 Humidity: 18.00 Real time: 05-12-2019, 12:49:46, Thu Lightness: 31
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 10:00:23.170704
+INFO:root:2019-12-05 10:14:00.272252
+INFO:root:Temperature: 24.94 Humidity: 18.00 Real time: 05-12-2019, 13:07:10, Thu Lightness: 31
+
+INFO:root:2019-12-05 10:30:44.606072
+INFO:root:Temperature: 24.94 Humidity: 17.00 Real time: 05-12-2019, 13:24:33, Thu Lightness: 31
+
+INFO:root:2019-12-05 10:47:28.888298
+INFO:root:Temperature: 24.94 Humidity: 17.00 Real time: 05-12-2019, 13:41:56, Thu Lightness: 30
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 10:49:30.304230
+INFO:root:2019-12-05 11:04:13.601501
+INFO:root:Temperature: 25.00 Humidity: 17.00 Real time: 05-12-2019, 13:59:19, Thu Lightness: 31
+
+INFO:root:2019-12-05 11:20:57.711262
+INFO:root:Temperature: 25.00 Humidity: 17.00 Real time: 05-12-2019, 14:16:42, Thu Lightness: 32
+
+INFO:root:2019-12-05 11:37:41.830332
+INFO:root:Temperature: 25.00 Humidity: 17.00 Real time: 05-12-2019, 14:34:05, Thu Lightness: 31
+
+INFO:root:2019-12-05 11:54:25.676762
+INFO:root:Temperature: 25.00 Humidity: 17.00 Real time: 05-12-2019, 14:51:28, Thu Lightness: 31
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 12:03:04.392930
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 12:03:09.909396
+INFO:root:2019-12-05 12:11:10.796855
+INFO:root:Temperature: 25.00 Humidity: 17.00 Real time: 05-12-2019, 15:08:52, Thu Lightness: 30
+
+INFO:root:2019-12-05 12:27:54.828274
+INFO:root:Temperature: 25.06 Humidity: 17.00 Real time: 05-12-2019, 15:26:15, Thu Lightness: 30
+
+INFO:root:2019-12-05 12:44:28.656462
+INFO:root:Temperature: 25.06 Humidity: 17.00 Real time: 05-12-2019, 15:43:38, Thu Lightness: 30
+
+INFO:root:2019-12-05 13:01:51.619216
+INFO:root:Temperature: 25.00 Humidity: 17.00 Real time: 05-12-2019, 16:01:01, Thu Lightness: 30
+
+INFO:root:2019-12-05 13:19:14.598298
+INFO:root:Temperature: 25.00 Humidity: 17.00 Real time: 05-12-2019, 16:18:24, Thu Lightness: 30
+
+INFO:root:2019-12-05 13:36:37.561010
+INFO:root:Temperature: 25.06 Humidity: 17.00 Real time: 05-12-2019, 16:35:47, Thu Lightness: 30
+
+INFO:root:2019-12-05 13:54:00.543865
+INFO:root:Temperature: 25.00 Humidity: 18.00 Real time: 05-12-2019, 16:53:10, Thu Lightness: 30
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 14:01:57.391160
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 14:02:00.250051
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 14:02:14.111787
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 14:02:19.860123
+INFO:root:2019-12-05 14:11:25.700557
+INFO:root:Temperature: 25.00 Humidity: 18.00 Real time: 05-12-2019, 17:10:35, Thu Lightness: 31
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 14:11:59.211111
+INFO:root:2019-12-05 14:28:49.221886
+INFO:root:Temperature: 25.06 Humidity: 18.00 Real time: 05-12-2019, 17:27:59, Thu Lightness: 30
+
+INFO:root:2019-12-05 14:46:12.218997
+INFO:root:Temperature: 25.00 Humidity: 18.00 Real time: 05-12-2019, 17:45:22, Thu Lightness: 30
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 14:51:54.770397
+INFO:root:2019-12-05 15:03:35.722219
+INFO:root:Temperature: 25.00 Humidity: 18.00 Real time: 05-12-2019, 18:02:45, Thu Lightness: 30
+
+INFO:root:2019-12-05 15:20:58.705902
+INFO:root:Temperature: 25.00 Humidity: 18.00 Real time: 05-12-2019, 18:20:08, Thu Lightness: 31
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 15:26:55.738657
+INFO:root:2019-12-05 15:38:22.226643
+INFO:root:Temperature: 25.00 Humidity: 18.00 Real time: 05-12-2019, 18:37:32, Thu Lightness: 31
+
+INFO:root:2019-12-05 15:55:45.181312
+INFO:root:Temperature: 25.06 Humidity: 18.00 Real time: 05-12-2019, 18:54:55, Thu Lightness: 30
+
+INFO:root:2019-12-05 16:13:08.169101
+INFO:root:Temperature: 25.06 Humidity: 18.00 Real time: 05-12-2019, 19:12:18, Thu Lightness: 30
+
+INFO:root:2019-12-05 16:30:31.127067
+INFO:root:Temperature: 24.94 Humidity: 18.00 Real time: 05-12-2019, 19:29:41, Thu Lightness: 30
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 16:32:43.020458
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 16:32:45.878961
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 16:32:48.737818
+INFO:root:2019-12-05 16:47:55.741882
+INFO:root:Temperature: 25.06 Humidity: 18.00 Real time: 05-12-2019, 19:47:05, Thu Lightness: 29
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 17:04:51.443172
+INFO:root:2019-12-05 17:05:19.265940
+INFO:root:Temperature: 25.00 Humidity: 18.00 Real time: 05-12-2019, 20:04:29, Thu Lightness: 30
+
+INFO:root:2019-12-05 17:22:42.255848
+INFO:root:Temperature: 25.00 Humidity: 18.00 Real time: 05-12-2019, 20:21:52, Thu Lightness: 30
+
+INFO:root:2019-12-05 17:40:05.207666
+INFO:root:Temperature: 25.00 Humidity: 18.00 Real time: 05-12-2019, 20:39:15, Thu Lightness: 30
+
+INFO:root:2019-12-05 17:57:28.186276
+INFO:root:Temperature: 25.06 Humidity: 18.00 Real time: 05-12-2019, 20:56:38, Thu Lightness: 31
+
+INFO:root:2019-12-05 18:14:51.152214
+INFO:root:Temperature: 25.06 Humidity: 18.00 Real time: 05-12-2019, 21:14:01, Thu Lightness: 30
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 18:27:08.436917
+INFO:root:2019-12-05 18:32:14.672629
+INFO:root:Temperature: 25.00 Humidity: 18.00 Real time: 05-12-2019, 21:31:24, Thu Lightness: 30
+
+INFO:root:2019-12-05 18:49:37.628843
+INFO:root:Temperature: 24.94 Humidity: 18.00 Real time: 05-12-2019, 21:48:47, Thu Lightness: 30
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 18:51:24.054939
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 18:51:54.124551
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 18:53:59.113484
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 18:58:55.997864
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 18:59:04.086915
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 18:59:41.099215
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 18:59:57.276469
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 19:00:05.338952
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 19:00:16.887076
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 19:01:00.275000
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 19:04:19.917513
+INFO:root:2019-12-05 19:07:06.671582
+INFO:root:Temperature: 25.00 Humidity: 17.00 Real time: 05-12-2019, 22:06:16, Thu Lightness: 30
+
+INFO:root:2019-12-05 19:24:29.623131
+INFO:root:Temperature: 24.94 Humidity: 18.00 Real time: 05-12-2019, 22:23:39, Thu Lightness: 29
+
+INFO:root:2019-12-05 19:41:52.606971
+INFO:root:Temperature: 24.94 Humidity: 18.00 Real time: 05-12-2019, 22:41:02, Thu Lightness: 31
+
+INFO:root:2019-12-05 19:59:15.565512
+INFO:root:Temperature: 24.94 Humidity: 18.00 Real time: 05-12-2019, 22:58:25, Thu Lightness: 30
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 20:02:42.116296
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 20:02:44.975427
+INFO:root:2019-12-05 20:16:39.634932
+INFO:root:Temperature: 25.00 Humidity: 18.00 Real time: 05-12-2019, 23:15:49, Thu Lightness: 30
+
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 20:25:27.986632
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 20:25:33.161191
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 20:25:37.197847
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 20:25:51.055465
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 20:26:08.974311
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 20:26:48.878537
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 20:26:56.965557
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 20:27:05.029421
+INFO:root:***!yep, that's alert on arduino!***
+INFO:root:2019-12-05 20:27:09.057005
+                                                                                    
