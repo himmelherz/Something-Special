@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=SomeBot
+Comment=
+Exec=sudo nohup python3.7 /home/pi/telebot/some_bot.py &
+Terminal=false
+Type=Application
