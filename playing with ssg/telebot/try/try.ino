@@ -1,6 +1,6 @@
 #include "DHT.h"
 
-#define DHTPIN 3 // Тот самый номер пина, о котором упоминалось выше
+#define DHTPIN 3
 DHT dht(DHTPIN, DHT11);
 const int movPin = 2;
 uint32_t timer_log;
@@ -17,13 +17,13 @@ void loop(){
     delay(300);
 
 
-  float h = dht.readHumidity(); //Измеряем влажность
-  float t = dht.readTemperature(); //Измеряем температуру
+  float h = dht.readHumidity(); 
+  float t = dht.readTemperature(); 
 
 
         if (val == 1)
     {
-      Serial.println("*alert*");
+      Serial.println("*alert*"); // alert for camera
       delay(2000);
     }
 
@@ -36,7 +36,7 @@ void loop(){
               Serial.print(" %\t");
               Serial.print("Температура: ");
               Serial.print(t);
-              Serial.println(" *C "); //Вывод показателей на экран
+              Serial.println(" *C "); 
               timer_log = millis();
             }
           
