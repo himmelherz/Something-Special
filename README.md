@@ -8,6 +8,6 @@ try.ino - arduino code for temperature and alerts
 
 telebot.desktop - service for autostart on raspberry
 
-actual version - playinf with ssg
+actual version - playing with ssg
 
 old stories - for other 
