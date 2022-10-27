@@ -12,10 +12,10 @@ import time
 threadId = 1
 #from pygtail import Pygtail
 REQUEST_KWARGS={
-    'proxy_url': 'socks5h://socks.ritm.ru:1080',
+    'proxy_url': 'URL_TO_PROXY',
     'urllib3_proxy_kwargs': {
-        'username': 'tgproxy',
-        'password': 'yazE45jqFg',
+        'username': 'YOURPROXY',
+        'password': 'PASSWORDPROXY',
     }
 }
 
@@ -29,7 +29,7 @@ statistics = {}
 for name in names:
 	statistics[name] = 0
 
-updater = Updater(token='611923037:AAErQoe7np6IqqIU7IZdxJwSBmC5ot_hZdQ', use_context=True, request_kwargs=REQUEST_KWARGS)
+updater = Updater(token='YOUR_TOKEN', use_context=True, request_kwargs=REQUEST_KWARGS)
 
 
 #my_file = open('/home/pi/sample.log')
